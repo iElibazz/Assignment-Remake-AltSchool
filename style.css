@@ -1,0 +1,41 @@
+/* General Looks  */
+body {
+    color: white;
+    background-image: url(./backg.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+/* Calculator Mods  */
+td {
+    border: 5px solid #5e3212;
+    background-color: #7f6b8a;
+}
+
+/* The Nav Bar Mods  */
+#nav {
+    /* size: auto; */
+    /* border: 5px dashed; */
+}
+
+/* Picture Mods */
+img {
+    width: 30%;
+    float: right;
+    clip-path: ellipse();
+}
+button {
+    font-weight: bold;
+}
+
+/* Form Mods */
+#h4-priority {
+    display: inline-block
+}
+
+#reg-label {
+        width: 130px;
+        display: inline-block;
+        margin: 5px;
+}
